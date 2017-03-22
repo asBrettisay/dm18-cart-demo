@@ -1,5 +1,5 @@
-# angular-boilerplate
-A very basic angular boilerplate
+# Card Demo
+A very basic Card Demo with Angular, Node and Express
 
 
 ## Installation
